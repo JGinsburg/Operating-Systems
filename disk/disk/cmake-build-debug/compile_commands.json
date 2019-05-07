@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/jonathan.ginsburg128@csuci.edu/Downloads/GinsburgJonathanProject2/disk/disk/cmake-build-debug",
+  "command": "/usr/bin/cc    -D_FILE_OFFSET_BITS=64 -g -Wall --pedantic -g -O0 -D_DEBUG   -std=gnu11 -o CMakeFiles/disk.dir/disk.c.o   -c /home/jonathan.ginsburg128@csuci.edu/Downloads/GinsburgJonathanProject2/disk/disk/disk.c",
+  "file": "/home/jonathan.ginsburg128@csuci.edu/Downloads/GinsburgJonathanProject2/disk/disk/disk.c"
+}
+]

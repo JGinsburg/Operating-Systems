@@ -1,0 +1,3 @@
+/home/jonathan.ginsburg128@csuci.edu/Downloads/GinsburgJonathanProject2/disk/disk/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jonathan.ginsburg128@csuci.edu/Downloads/GinsburgJonathanProject2/disk/disk/cmake-build-debug/CMakeFiles/disk.dir
+/home/jonathan.ginsburg128@csuci.edu/Downloads/GinsburgJonathanProject2/disk/disk/cmake-build-debug/CMakeFiles/edit_cache.dir
